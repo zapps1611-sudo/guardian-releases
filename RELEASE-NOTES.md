@@ -1,4 +1,4 @@
-# Guardian 0.1.0 release candidate (build 183) — free beta
+# Guardian 0.1.0 (build 183)
 
 macOS 15 or newer, Apple silicon only. Signed with Developer ID and notarized by Apple.
 
@@ -10,10 +10,10 @@ Install: open the DMG, drag Guardian to Applications, launch it. If macOS shows 
 What it does: scans source projects, binaries and dynamic-analysis artefacts for security, QA and
 release-readiness issues, offline. Results may be incomplete and are not a guarantee of security.
 
-Known limits: this is a release candidate; there is no auto-update (download new versions here);
+Known limits: there is no auto-update (download new versions here);
 dynamic analysis needs tools you install yourself.
 
-Licence: free beta licence at eula.html. Third-party licences are in the app under
+Licence: licence at eula.html. Third-party licences are in the app under
 Settings → About → Third-Party Notices.
 
-Feedback: mohdarsad02@gmail.com
+Feedback: guardian@aigrowthmanager.com
